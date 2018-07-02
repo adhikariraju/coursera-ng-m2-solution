@@ -1,1 +1,3 @@
-# module2-solution
+# Coursera 
+# FrontEnd App Development with AngularJS
+# Module2 Assignment
